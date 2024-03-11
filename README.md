@@ -11,16 +11,16 @@
 
 ## Mis Proyectos Destacados 🌟
 
-### Sixtage(enlace al repositorio)
+### Sixtage
 Es un proyecto realizado en clase sobre una tienda de ropa vintage
 
-### Proyecto 2: Desmos (enlace al repositorio)
+### Proyecto 2: Desmos
 Proyecto realizado en el hackathom que organiza la fundacion F5 con los diferentes estudiantes de sus bootcamp repartidos en distintos puntos de la peninsula.
 
 ## Habilidades 🛠️
 
 - Desarrollo web (HTML, CSS, JavaScript, Vue.js)
-- Edición de video (Adobe Premiere Pro, After Effects, Photoshop)
+- Edición de video (Adobe Premiere Pro, After Effects, Photoshop, lighroom, illustrator...)
 - Git y control de versiones
 - Diseño UX/UI básico
 - otros programas como Trello, Figma, Canva.....
