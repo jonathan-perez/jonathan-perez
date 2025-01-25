@@ -5,8 +5,10 @@
 
 ## Sobre mí 🚀
 
-- 💻 Desarrollador web con experiencia en HTML, CSS, JavaScript, y frameworks como Vue.js.
-- 🎥 Editor de video con habilidades en Adobe Premiere Pro, After Effects, y Photoshop, lightroom...
+- 💻 Desarrollador web con experiencia en HTML, CSS, JavaScript, y frameworks como Vue.js y angular. Además, de python con flashAPI.
+
+- 🎥 Editor de video Y fotógrafo con habilidades en Adobe Premiere Pro, After Effects, y Photoshop, lightroom....
+
 - 📚 Siempre aprendiendo y explorando nuevas tecnologías para mejorar mis habilidades.
 
 ## Mis Proyectos Destacados 🌟
@@ -19,11 +21,11 @@ Proyecto realizado en el hackathom que organiza la fundacion F5 con los diferent
 
 ## Habilidades 🛠️
 
-- Desarrollo web (HTML, CSS, JavaScript, Vue.js)
-- Edición de video (Adobe Premiere Pro, After Effects, Photoshop, lighroom, illustrator...)
+- Desarrollo web (HTML, CSS, JavaScript, Vue.js, Angular.)
+- Edición de video y fotografía(Adobe Premiere Pro, After Effects, Photoshop, lighroom, illustrator...)
 - Git y control de versiones
-- Diseño UX/UI básico
-- otros programas como Trello, Figma, Canva.....
+- Diseño UX/UI
+- otros programas como Trello, Jira, Figma, Canva.....
 
 ## Contacto 📫
 
