@@ -1,7 +1,7 @@
 - 👋 Hola, soy @jonathan-perez
 
 
-¡Bienvenido a mi perfil de GitHub! Soy un apasionado desarrollador web y editor post productor de video.
+¡Bienvenido a mi perfil de GitHub! Soy un apasionado desarrollador web, editor post productor de video y fotógrafo.
 
 ## Sobre mí 🚀
 
@@ -21,7 +21,7 @@ Proyecto realizado en el hackathom que organiza la fundacion F5 con los diferent
 
 ## Habilidades 🛠️
 
-- Desarrollo web (HTML, CSS, JavaScript, Vue.js, Angular.)
+- Desarrollo web (HTML, CSS, JavaScript, Vue.js, Angular, python)
 - Edición de video y fotografía(Adobe Premiere Pro, After Effects, Photoshop, lighroom, illustrator...)
 - Git y control de versiones
 - Diseño UX/UI
